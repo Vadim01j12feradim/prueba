@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(148, 148, 0);
+    text-align: center;
+}
+.input{
+    width: 200px;
+    height: 100px;
+    border-style:hidden;
+    border-width: 20px;
+    background-color: rgb(10, 94, 66);
+    color:aliceblue;
+    border-radius: 10px;
+}
+.input:hover{
+    
+    background-color: rgb(0, 60, 112);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+#name{
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: rgb(241, 238, 238);
+}
+.info{
+    color: rgb(43, 7, 152);
+}
